@@ -103,7 +103,7 @@ body {
 }
 
 .dark .container {
-  backgroud: #333439;
+  background: #333439;
   color: #f6f6f6;
 }
 
@@ -112,7 +112,7 @@ body {
 }
 
 .dark .tema button {
-  backgroud: #1c1c1c;
+  background: #1c1c1c;
   color: #ffffff;
   box-sizing: border-box;
   border-radius: 100px;
